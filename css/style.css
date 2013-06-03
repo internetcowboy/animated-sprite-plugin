@@ -1,0 +1,51 @@
+
+html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+body { margin: 0; font-size: 13px; line-height: 1.231; }
+body, button, input, select, textarea { font-family: sans-serif; color: #222; }
+
+::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+
+a { color: #00e; }
+a:visited { color: #551a8b; }
+a:hover { color: #06e; }
+a:focus { outline: thin dotted; }
+a:hover, a:active { outline: 0; }
+
+
+/* ==|== START PAGE CSS ======================================================= */
+.clear{clear:both;}
+img{border:0px;}
+.pointer{cursor:pointer;}
+body	{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	line-height:15px;
+	color:#fff;
+	background-color:#000;
+	width:100%;
+	}
+	h1{line-height:30px;text-align:center;}
+	#globalWrapper{
+		margin:0 auto 0 auto;width:300px;
+	}
+		
+		#guideWrapper{
+		width:104px;
+		height:104px;
+		overflow:hidden;
+		border: 1px solid white;  
+		}
+		#guideimg{
+		width: 104px;  
+		}
+		.forward, .reverse{
+  margin-top:10px;
+			background-color:#eee;color:#FF0000;text-align:center;border:1px solid #FF0000;padding:10px;cursor:pointer;width:70px;
+		}
+		
+		
+		
+		
+		
+		
